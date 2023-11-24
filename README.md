@@ -40,7 +40,7 @@
      <a href="https://dopamine-works.web.app/" target="_blank" title="Go to Source">
         <img align="center" width=100%  src="/Assets/Dopamine.png"   alt="sushi" style="  object-fit: cover;
   width:100%;
-  height:100%;" /></a>
+  height:150px;" /></a>
       </p>
     <p align="center">
         <a href="https://dopamine-works.web.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="@unsimpledev"  /></a>
