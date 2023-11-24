@@ -119,8 +119,3 @@
 
 </p>        
 <!--- stats (end) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegomalaguenop&show_icons=true&locale=en&layout=compact" alt="diegomalaguenop" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegomalaguenop&show_icons=true&locale=en" alt="diegomalaguenop" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegomalaguenop&" alt="diegomalaguenop" /></p>
