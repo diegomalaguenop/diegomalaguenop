@@ -34,14 +34,15 @@
       <a href="https://github.com/diegomalaguenop/Sushi-Web" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
-<td width="25%" align="center">
+  <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+      <h2>Dopamine Works</h2>
+     <a href="https://dopamine-works.web.app/" target="_blank" title="Go to Source">
+        <img align="center" width=100% src="/Assets/Sushi.png"   alt="sushi" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://dopamine-works.web.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/diegomalaguenop/Dopamine" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
   
