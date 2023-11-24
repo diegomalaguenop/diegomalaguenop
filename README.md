@@ -13,7 +13,7 @@
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **diegomalagueno@gmail.com**
 <!--Intro end-->
   </p>
 <br>
