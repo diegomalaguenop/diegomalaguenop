@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego Malagueño</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi </h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Desarrollador de Software
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
