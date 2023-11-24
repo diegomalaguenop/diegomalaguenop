@@ -25,6 +25,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
+      <h2>Sushi Website</h2>
      <a href="https://sushi-f43bf.web.app/" target="_blank" title="Go to Source">
         <img align="center" width=100% src="/Assets/Sushi.png"   alt="sushi" /></a>
       </p>
