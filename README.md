@@ -27,7 +27,7 @@
     <p align="center">
       <h2>Sushi Website</h2>
      <a href="https://sushi-f43bf.web.app/" target="_blank" title="Go to Source">
-        <img align="center" width=100% height=100% src="/Assets/Sushi.png"   alt="sushi" /></a>
+        <img align="center" width=100% src="/Assets/Sushi.png"   alt="sushi" /></a>
       </p>
     <p align="center">
         <a href="https://sushi-f43bf.web.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="@unsimpledev"  /></a>
@@ -38,9 +38,7 @@
     <p align="center">
       <h2>Dopamine Works</h2>
      <a href="https://dopamine-works.web.app/" target="_blank" title="Go to Source">
-        <img align="center" width=100%  src="/Assets/Dopamine.png"   alt="sushi" style="  object-fit: cover;
-  width:100%;
-  height:150px;" /></a>
+        <img align="center" width=100%" /></a>
       </p>
     <p align="center">
         <a href="https://dopamine-works.web.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="@unsimpledev"  /></a>
