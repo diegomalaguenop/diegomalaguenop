@@ -23,7 +23,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,mongodb,mysql,figma,react,angular,dotnet,firebase,git,github,cs,java" />
   </a>
 </p>
-<br>
 
 <!-------------------------->
 <div id="proyectos">
