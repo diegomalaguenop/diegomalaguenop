@@ -1,12 +1,10 @@
 <h1 align="center">Hola 👋, Soy Diego Malagueño</h1>
-<h3 align="center">Apasionado Software developer de Chile</h3>
+<h3 align="center">Apasionado Desarrollador de Software de Chile</h3>
 
 <h2>Sobre mi </h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Desarrollador de Software
-
 💻 1 año de experiencia Front-end y Back-end, enfocado en idear soluciones atractivas y eficaces adaptadas a distintos sectores de la industria. Mis habilidades se destacan en HTML, JavaScript, CSS y múltiples frameworks como Angular, React.js y ASP.NET Core. Además, cuento con experiencia trabajando en proyectos bajo las metodologías Agile SCRUM y Waterfall.
 
 📫 Contacto: **diegomalagueno@gmail.com**
