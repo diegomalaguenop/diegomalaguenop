@@ -7,9 +7,7 @@
 <p align="left">
 🎓 Desarrollador de Software
 
-🎥 1 año de experiencia Front-end y Back-end, enfocado en idear soluciones atractivas y eficaces adaptadas a distintos sectores de la industria. Mis habilidades se destacan en HTML, JavaScript, CSS y múltiples frameworks como Angular, React.js y ASP.NET Core. Además, cuento con experiencia trabajando en proyectos bajo las metodologías Agile SCRUM y Waterfall.
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 1 año de experiencia Front-end y Back-end, enfocado en idear soluciones atractivas y eficaces adaptadas a distintos sectores de la industria. Mis habilidades se destacan en HTML, JavaScript, CSS y múltiples frameworks como Angular, React.js y ASP.NET Core. Además, cuento con experiencia trabajando en proyectos bajo las metodologías Agile SCRUM y Waterfall.
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
