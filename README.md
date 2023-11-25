@@ -9,16 +9,10 @@
 
 💻 1 año de experiencia Front-end y Back-end, enfocado en idear soluciones atractivas y eficaces adaptadas a distintos sectores de la industria. Mis habilidades se destacan en HTML, JavaScript, CSS y múltiples frameworks como Angular, React.js y ASP.NET Core. Además, cuento con experiencia trabajando en proyectos bajo las metodologías Agile SCRUM y Waterfall.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
 📫 Contacto: **diegomalagueno@gmail.com**
 <!--Intro end-->
   </p>
 <br>
-
-- 🌱 I’m currently learning **React.js - Angular - ASP.NET**
-
-- 📫 How to reach me **diegomalagueno@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
