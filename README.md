@@ -12,7 +12,6 @@
 📫 Contacto: **diegomalagueno@gmail.com**
 <!--Intro end-->
   </p>
-<br>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
