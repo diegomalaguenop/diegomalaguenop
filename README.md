@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind =12" <br>  />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind =12" />
         <img src="https://skillicons.dev/icons?i=mongodb,css,js,bootstrap,tailwind" />
 
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,php,dart,flutter,py,dotnet,mysql,sqlite,firebase,gtk,git,github,vscode=12" />
