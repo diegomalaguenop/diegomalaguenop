@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Diego Malagueño</h1>
-<h3 align="center">Apasionado Frontend developer de Chile</h3>
+<h3 align="center">Apasionado Software developer de Chile</h3>
 
 <h2>Sobre mi </h2>
 <!--Intro start-->
