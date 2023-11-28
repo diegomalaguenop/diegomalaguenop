@@ -13,7 +13,7 @@
 <h3 align="left">Conectate conmigo:</h3>
 
 <p align="left">
-  Telefono: +569 630070018 <br>
+📞 Telefono: +569 630070018 <br>
 📫 Correo: diegomalagueno@gmail.com
 
 <a href="https://linkedin.com/in/diego-malagueno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-malagueno" height="30" width="40" /></a>
