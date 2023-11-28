@@ -92,24 +92,24 @@
 <tr border="none">
   <td width="45%" align="center">
     <p align="center">
-      <h2>SEPPRAD Home Care</h2>
-     <a href="https://sepprad-2ff2f.web.app/" target="_blank" title="Go to Source">
-        <img align="center" width=100% src="/Assets/Sepprad.png"   alt="sepprad" /></a>
+      <h2>Deportes Dojo</h2>
+     <a href="https://deportes-dojo.vercel.app/" target="_blank" title="Go to Source">
+        <img align="center" width=100% src="/Assets/DeportesDojo.png"   alt="deportes" /></a>
       </p>
     <p align="center">
-        <a href="https://sepprad-2ff2f.web.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/diegomalaguenop/Sepprad-html" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://deportes-dojo.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/diegomalaguenop/DeportesDojo" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
   <td width="45%" align="center">
     <p align="center">
-      <h2>Netflix Clone</h2>
-     <a href="https://netflix-15b85.web.app/" target="_blank" title="Go to Source">
-        <img align="center" width=100% src="/Assets/Netflix.png"   alt="netflix" /></a>
+      <h2>Video Lab</h2>
+     <a href="https://vista-previo-video.vercel.app/" target="_blank" title="Go to Source">
+        <img align="center" width=100% src="/Assets/VideoLab.png"   alt="videolab" /></a>
       </p>
     <p align="center">
-        <a href="https://netflix-15b85.web.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/diegomalaguenop/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://vista-previo-video.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/diegomalaguenop/Vista-previo-video" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>  
 </tr>
