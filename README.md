@@ -29,7 +29,7 @@
 
 <!-------------------------->
 <div id="proyectos">
-<h2>Proyectos👨🏻‍💻</h2>
+<h2>Desarrollos👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
