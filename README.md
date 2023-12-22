@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Diego Malagueño</h1>
-<h3 align="center">Apasionado Desarrollador de Software</h3>
+<h3 align="center">Desarrollador de Software</h3>
 
 <h2>Sobre mi </h2>
 <!--Intro start-->
